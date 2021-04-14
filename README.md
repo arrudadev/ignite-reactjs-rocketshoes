@@ -61,13 +61,13 @@ npm install
 
 # :runner: Getting Started
 
-Run the following command to start the fake API with JSON Server to simulate an API that has genre and movie information:
+Run the following command to start the fake API with JSON Server to simulate an API that has products information:
 
 ```yarn server```
 
 Run the following command to start the application in a development environment:
 
-```yarn dev```
+```yarn start```
 
 To view the project you can open [localhost:3000](http://localhost:3000/).
 
